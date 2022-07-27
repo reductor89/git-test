@@ -1,1 +1,3 @@
-# reductor89
+# Git and Github Course
+
+Crash course for git
